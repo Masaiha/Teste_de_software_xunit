@@ -2,3 +2,6 @@
 *.cache
 *.testlog
 *.cache
+*.pdb
+*.dll
+*.suo
