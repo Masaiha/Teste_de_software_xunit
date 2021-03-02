@@ -1,0 +1,5 @@
+D:\Users\masan\Documents\GitHub\Teste_de_software_xunit\TestesDeSoftwareXUnit\Testes de unidade\Features\Features\bin\Debug\netcoreapp3.1\Features.deps.json
+D:\Users\masan\Documents\GitHub\Teste_de_software_xunit\TestesDeSoftwareXUnit\Testes de unidade\Features\Features\bin\Debug\netcoreapp3.1\Features.dll
+D:\Users\masan\Documents\GitHub\Teste_de_software_xunit\TestesDeSoftwareXUnit\Testes de unidade\Features\Features\obj\Debug\netcoreapp3.1\Features.csprojAssemblyReference.cache
+D:\Users\masan\Documents\GitHub\Teste_de_software_xunit\TestesDeSoftwareXUnit\Testes de unidade\Features\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfoInputs.cache
+D:\Users\masan\Documents\GitHub\Teste_de_software_xunit\TestesDeSoftwareXUnit\Testes de unidade\Features\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfo.cs
